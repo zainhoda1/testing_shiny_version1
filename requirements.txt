@@ -5,6 +5,6 @@ asyncio
 numpy
 pyautogui
 seaborn
-matplotlib.pyplot
+matplotlib-pyplot
 pandas
 plotly.express
