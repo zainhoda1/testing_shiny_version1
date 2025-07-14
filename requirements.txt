@@ -1,0 +1,12 @@
+faicons
+shiny
+seaborn
+asyncio
+numpy
+cv2
+pyautogui
+os
+seaborn as sns
+matplotlib.pyplot as plt
+pandas as pd
+plotly.express as px
